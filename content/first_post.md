@@ -1,16 +1,16 @@
-Title: Title 
+Title: Watershed Engineering
 Date: 2019-1-9 11:00 
-Category: Category 
-Tags: These, Are, The, Tags 
-Slug: Slug 
-Authors: These are the authors 
-Summary: This is a Summary!
+Category: Groundwater
+Tags: Watershed, Groundwater, Hydrology, Ventura, Santa Clara, Groundwater Recharge, Civil Engineering
+Slug: watershed-engineering
+Authors: Carl Humphrey 
+Summary: A blog about watershed engineering, groundwater recharge, and forest rehabilitation.
 
-##Big heading for a big day!  
+##Ventura County's Santa Clara River
 
-This is the first paragraph of our article - huzzah!  
+As young teenagers, a friend and I navigated this river from El Rio to Surfer's Point, a beach adjacent to the rivermouth.
 
-We're writing this in Markdown format so we can use two * symbols to indicate a ** bold ** formatted block of text.  
+*We're writing this in Markdown format so we can use two * symbols to indicate a ** bold ** formatted block of text.*  
 
 ###A slighty xmaller header...  
 
@@ -18,5 +18,4 @@ We can also use a single * around a block of text to indicate an *italicised* wo
 
 ###Let's throw an image in here
 
-![Baby Girl]({static}/images/P1040591.png)
-THE END! (Cool story bro!)
+
