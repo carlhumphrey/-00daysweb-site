@@ -1,7 +1,7 @@
 Title: Watershed Engineering
 Date: 2019-1-9 11:00 
 Category: Groundwater
-Tags: Watershed, Groundwater, Hydrology, Ventura, Santa Clara, Groundwater Recharge, Civil Engineering
+Tags: Watershed, Groundwater, Hydrology, Ventura, Santa Clara River, Groundwater Recharge, Civil Engineering
 Slug: watershed-engineering
 Authors: Carl Humphrey 
 Summary: A blog about watershed engineering, groundwater recharge, and forest rehabilitation.
