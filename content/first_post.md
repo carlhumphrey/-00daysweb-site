@@ -16,4 +16,7 @@ We're writing this in Markdown format so we can use two * symbols to indicate a 
 
 We can also use a single * around a block of text to indicate an *italicised* word.  
 
+###Let's throw an image in here
+
+![Baby Girl]({static}/images/P1040591.png)
 THE END! (Cool story bro!)
