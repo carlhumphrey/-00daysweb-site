@@ -1,14 +1,14 @@
 Title: Watershed Engineering
 Date: 2019-1-9 11:00 
 Category: Groundwater
-Tags: Watershed, Groundwater, Hydrology, Ventura, Santa Clara River, Groundwater Recharge, Civil Engineering
+Tags: Watershed, Groundwater, Hydrology, California, San Joaquin Valley, Groundwater Recharge, Civil Engineering
 Slug: watershed-engineering
 Authors: Carl Humphrey 
 Summary: A blog about watershed engineering, groundwater recharge, and forest rehabilitation.
 
 ##Ventura County's Santa Clara River
 
-As young teenagers, a friend and I traversed this river from El Rio to Surfer's Point, a beach adjacent to the rivermouth.
+As young teenagers, a friend and I traversed this river from El Rio to Surfer's Point, a beach adjacent to the river's mouth in Ventura California.
 
 *We're writing this in Markdown format so we can use two * symbols to indicate a ** bold ** formatted block of text.*  
 
